@@ -10,6 +10,8 @@ Programadores Cariocas - Senac + Resilia
 <h3>A Resilia está pensando em lançar um novo sistema de
 acompanhamento e este é um modelo de banco de dados que vai auxiliá-la na armazenagens de dados. Vamos lá?</h3>
 <br>
+
+<img align="center" height="500" src="Modelagem de BD - RESILIA.jpg" />
 <h2> A gente vê por aqui:</h2>
 
 <blockquote>
